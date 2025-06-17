@@ -33,7 +33,6 @@
 
 ![Vista previa de la landing page de As de Papel](https://zhainy.github.io/asdepapel-landing/img/preview-readme.png)
 
-> Si esta imagen no se carga, asegúrate de haber subido un archivo llamado `preview-readme.png` en la carpeta `img/`
 
 ---
 
