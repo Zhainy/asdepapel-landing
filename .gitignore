@@ -1,0 +1,13 @@
+
+# Ignorar SCSS
+scss/
+
+# Ignorar mapas de CSS
+*.map
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Si se usa node en el futuro
+node_modules/
